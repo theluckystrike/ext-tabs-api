@@ -9,5 +9,8 @@
     "test": "jest"
   },
   "keywords": ["chrome-extension", "library"],
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
 }
